@@ -1,0 +1,14 @@
+@media all and (min-width: 480px) {
+    .auth {
+      padding: 60px 0;
+    }
+  
+    .auth form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .goto-signup {
+      margin-top: 1rem;
+    }
+}

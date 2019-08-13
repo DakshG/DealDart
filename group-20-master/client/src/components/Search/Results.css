@@ -1,0 +1,25 @@
+.text{
+    font-size:8px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+
+.card-img-top {
+     max-width:65%;
+	 height: auto;
+	 overflow: hidden;
+}
+
+.card-img-logo {
+	 max-width:30%;
+	 height: auto;
+	 background-color: white;
+	 overflow: hidden;
+}
+
+.card {
+  background-color: (56,56,56)
+}
