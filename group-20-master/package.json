@@ -27,7 +27,7 @@
     "express-session": "^1.15.6",
     "image-webpack-loader": "^4.6.0",
     "jsonwebtoken": "^8.5.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "mysql": "^2.16.0",
     "passport": "^0.4.0",
