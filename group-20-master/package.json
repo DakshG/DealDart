@@ -25,7 +25,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
-    "image-webpack-loader": "^4.6.0",
+    "image-webpack-loader": "^8.1.0",
     "jsonwebtoken": "^8.5.0",
     "mocha": "^6.1.4",
     "morgan": "^1.9.1",
